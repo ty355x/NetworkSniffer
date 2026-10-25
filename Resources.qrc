@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/AppIcon.ico</file>
+        <file>Resources/NetworkDomain.png</file>
+        <file>Resources/NetworkServer.png</file>
+        <file>Resources/NetworkGroup.png</file>
+        <file>Resources/NetworkFolder.png</file>
+        <file>Resources/NetworkPrinter.png</file>
+        <file>Resources/Expand.png</file>
+        <file>Resources/Collapse.png</file>
+        <file>Resources/RunButton.png</file>
+        <file>Resources/AppAbout.png</file>
+        <file>Resources/Report.png</file>
+        <file>Resources/Save.png</file>
+        <file>Resources/NavBack.png</file>
+        <file>Resources/Print.png</file>
+        <file>Resources/Background.jpg</file>
+        <file>Resources/AppStyles.css</file>
+        <file>Resources/Logo64.png</file>
+        <file>Resources/Logo_Full.png</file>
+        <file>Resources/Web.png</file>
+    </qresource>
+</RCC>
